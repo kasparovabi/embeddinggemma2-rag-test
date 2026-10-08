@@ -22,5 +22,11 @@
  "tam_boyut": 768,
  "vektor_256": 256,
  "vektor_128": 128,
- "bit": 4
+ "bit": 4,
+ "q4_kayip_mutlak": 0.4,
+ "onek_yok_768_mutlak": 3.3,
+ "onek_yok_128_mutlak": 11.1,
+ "ucu_birden_mutlak": 21.6,
+ "embeddinggemma_surum": 2,
+ "bm25_adindaki_sayi": 25
 }
